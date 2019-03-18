@@ -1,0 +1,19 @@
+baseURL = "http://hewenda.github.io"
+languageCode = "en-us"
+title = "In my Life"
+theme = "minos"
+paginate = 10
+
+[menu]
+    [[menu.main]]
+        name = "Categories"
+        url = "/categories/"
+
+    [[menu.main]]
+        name = "Tags"
+        url = "/tags/"
+
+[params]
+    smartToc = true
+    description = "Some forever not for better"
+    
