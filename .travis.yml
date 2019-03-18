@@ -6,6 +6,9 @@ branches:
   only:
     - blog
 
+notifications:
+  on_success: never
+
 git:
   submodules: false
 

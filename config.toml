@@ -1,4 +1,4 @@
-baseURL = "http://hewenda.github.io"
+baseURL = "https://hewenda.github.io"
 languageCode = "en-us"
 title = "In my Life"
 theme = "minos"
