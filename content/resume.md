@@ -18,7 +18,7 @@ hidden: true
 - 期望职位：web 前端开发
 - 期望薪资：20k~25k
 - 期望城市：深圳
-- 在线简历： [foxes.in/resume](https://foxes.in/posts/resume)
+- 在线简历： [foxes.in/resume](https://foxes.in/resume)
 
 ------
 
